@@ -1,1 +1,1 @@
-Sentiment analysis using Naive Bayes
+Sentiment analysis using Naive Bayes Classifier
