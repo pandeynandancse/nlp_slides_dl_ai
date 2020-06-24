@@ -1,1 +1,1 @@
-Sentiment analysis using Naive Bayes Classifier
+Tweet Sentiment analysis using Naive Bayes Classifier
